@@ -4,6 +4,14 @@ class ATM:
         self.account_number = account_number
         self.balance = balance
 
+
+
+class ATM:
+    def __init__(self, account_number, balance=0):
+        # Initialize ATM account with account number and balance
+        self.account_number = account_number
+        self.balance = balance
+
     def check_balance(self):
         """Function to check the current balance"""
         print(f"Current balance: ${self.balance}")
