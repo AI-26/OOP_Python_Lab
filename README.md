@@ -5,6 +5,11 @@ Each lab covers a different set of Python concepts, ranging from basic syntax to
 
 ---
 
+
+
+
+
+
 ## 📂 Repository Structure
 
 ### Lab 1 – Basics of Python
